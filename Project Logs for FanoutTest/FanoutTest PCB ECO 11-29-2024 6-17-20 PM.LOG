@@ -1,0 +1,27 @@
+Added Component: Designator=J3(SAMTEC_SMA-J-P-H-ST-EM1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SMA-J-P-H-ST-EM1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(CONSMA022G)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=CONSMA022-G&DocType=Data%20Sheet&DocLang=English&PartCntxt=CONSMA022-G&DocFormat=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "6.67mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CONSMA022-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "712-CONSMA022-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Linx-Technologies/CONSMA022-G?qs=OlC7AqGiEDmpwNGHcfQruQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=TA5(lane_width_transition)
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2_1
+Added Pin To Net: NetName=GND Pin=J3-2_2
+Added Pin To Net: NetName=GND Pin=J3-3_1
+Added Pin To Net: NetName=GND Pin=J3-3_2
+Added Pin To Net: NetName=OUT_1_N Pin=TA5-D
+Added Pin To Net: NetName=Net*_1 Pin=TA5-S
+Added Member To Class: ClassName=FanoutTest Member=Component J3 SMA-J-P-H-ST-EM1
+Added Member To Class: ClassName=FanoutTest Member=Component J? CONSMA022-G
+Added Member To Class: ClassName=FanoutTest Member=Component TA5 Differential to Single Transition

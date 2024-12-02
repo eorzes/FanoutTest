@@ -1,0 +1,110 @@
+Removed Pin From Net: NetName=NetJ2_1 Pin=TA1-S
+Removed Pin From Net: NetName=NetJ3_1 Pin=TA2-S
+Removed Pin From Net: NetName=NetJ4_1 Pin=TA3-S
+Removed Pin From Net: NetName=NetJ0_1 Pin=TA4-S
+Removed Pin From Net: NetName=NetJ5_1 Pin=TA5-S
+Removed Pin From Net: NetName=NetJ1_1 Pin=TA6-S
+Removed Pin From Net: NetName=NetJ6_1 Pin=TA7-S
+Removed Pin From Net: NetName=NetJ7_1 Pin=TA8-S
+Removed Pin From Net: NetName=NetJ8_1 Pin=TA9-S
+Removed Pin From Net: NetName=NetJ9_1 Pin=TA10-S
+Added Component: Designator=J0(CONSMA022-G)
+Added Component: Designator=J1(CONSMA022-G)
+Added Component: Designator=J2(CONSMA022-G)
+Added Component: Designator=J3(CONSMA022-G)
+Added Component: Designator=J4(CONSMA022-G)
+Added Component: Designator=J5(CONSMA022-G)
+Added Component: Designator=J6(CONSMA022-G)
+Added Component: Designator=J7(CONSMA022-G)
+Added Component: Designator=J8(CONSMA022-G)
+Added Component: Designator=J9(CONSMA022-G)
+Added Pin To Net: NetName=GND Pin=J0-0
+Added Pin To Net: NetName=GND Pin=J0-0
+Added Pin To Net: NetName=GND Pin=J0-0
+Added Pin To Net: NetName=GND Pin=J0-0
+Added Pin To Net: NetName=GND Pin=J0-0
+Added Pin To Net: NetName=GND Pin=J0-0
+Added Pin To Net: NetName=NetJ0_1 Pin=J0-1
+Added Pin To Net: NetName=GND Pin=J1-0
+Added Pin To Net: NetName=GND Pin=J1-0
+Added Pin To Net: NetName=GND Pin=J1-0
+Added Pin To Net: NetName=GND Pin=J1-0
+Added Pin To Net: NetName=GND Pin=J1-0
+Added Pin To Net: NetName=GND Pin=J1-0
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J2-0
+Added Pin To Net: NetName=GND Pin=J2-0
+Added Pin To Net: NetName=GND Pin=J2-0
+Added Pin To Net: NetName=GND Pin=J2-0
+Added Pin To Net: NetName=GND Pin=J2-0
+Added Pin To Net: NetName=GND Pin=J2-0
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J3-0
+Added Pin To Net: NetName=GND Pin=J3-0
+Added Pin To Net: NetName=GND Pin=J3-0
+Added Pin To Net: NetName=GND Pin=J3-0
+Added Pin To Net: NetName=GND Pin=J3-0
+Added Pin To Net: NetName=GND Pin=J3-0
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J4-0
+Added Pin To Net: NetName=GND Pin=J4-0
+Added Pin To Net: NetName=GND Pin=J4-0
+Added Pin To Net: NetName=GND Pin=J4-0
+Added Pin To Net: NetName=GND Pin=J4-0
+Added Pin To Net: NetName=GND Pin=J4-0
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J5-0
+Added Pin To Net: NetName=GND Pin=J5-0
+Added Pin To Net: NetName=GND Pin=J5-0
+Added Pin To Net: NetName=GND Pin=J5-0
+Added Pin To Net: NetName=GND Pin=J5-0
+Added Pin To Net: NetName=GND Pin=J5-0
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J6-0
+Added Pin To Net: NetName=GND Pin=J6-0
+Added Pin To Net: NetName=GND Pin=J6-0
+Added Pin To Net: NetName=GND Pin=J6-0
+Added Pin To Net: NetName=GND Pin=J6-0
+Added Pin To Net: NetName=GND Pin=J6-0
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J7-0
+Added Pin To Net: NetName=GND Pin=J7-0
+Added Pin To Net: NetName=GND Pin=J7-0
+Added Pin To Net: NetName=GND Pin=J7-0
+Added Pin To Net: NetName=GND Pin=J7-0
+Added Pin To Net: NetName=GND Pin=J7-0
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J8-0
+Added Pin To Net: NetName=GND Pin=J8-0
+Added Pin To Net: NetName=GND Pin=J8-0
+Added Pin To Net: NetName=GND Pin=J8-0
+Added Pin To Net: NetName=GND Pin=J8-0
+Added Pin To Net: NetName=GND Pin=J8-0
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J9-0
+Added Pin To Net: NetName=GND Pin=J9-0
+Added Pin To Net: NetName=GND Pin=J9-0
+Added Pin To Net: NetName=GND Pin=J9-0
+Added Pin To Net: NetName=GND Pin=J9-0
+Added Pin To Net: NetName=GND Pin=J9-0
+Added Pin To Net: NetName=NetJ9_1 Pin=J9-1
+Added Pin To Net: NetName=NetJ0_1 Pin=TA1-S
+Added Pin To Net: NetName=NetJ1_1 Pin=TA2-S
+Added Pin To Net: NetName=NetJ2_1 Pin=TA3-S
+Added Pin To Net: NetName=NetJ8_1 Pin=TA4-S
+Added Pin To Net: NetName=NetJ3_1 Pin=TA5-S
+Added Pin To Net: NetName=NetJ9_1 Pin=TA6-S
+Added Pin To Net: NetName=NetJ4_1 Pin=TA7-S
+Added Pin To Net: NetName=NetJ5_1 Pin=TA8-S
+Added Pin To Net: NetName=NetJ6_1 Pin=TA9-S
+Added Pin To Net: NetName=NetJ7_1 Pin=TA10-S
+Added Member To Class: ClassName=FanoutTest Member=Component J0 SMA
+Added Member To Class: ClassName=FanoutTest Member=Component J1 SMA
+Added Member To Class: ClassName=FanoutTest Member=Component J2 SMA
+Added Member To Class: ClassName=FanoutTest Member=Component J3 SMA
+Added Member To Class: ClassName=FanoutTest Member=Component J4 SMA
+Added Member To Class: ClassName=FanoutTest Member=Component J5 SMA
+Added Member To Class: ClassName=FanoutTest Member=Component J6 SMA
+Added Member To Class: ClassName=FanoutTest Member=Component J7 SMA
+Added Member To Class: ClassName=FanoutTest Member=Component J8 SMA
+Added Member To Class: ClassName=FanoutTest Member=Component J9 SMA

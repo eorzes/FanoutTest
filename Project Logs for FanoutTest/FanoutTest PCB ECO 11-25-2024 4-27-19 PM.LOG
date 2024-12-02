@@ -1,0 +1,307 @@
+Added Component: Designator=C1(LLL03TR61E333KE01)
+Add component (AddParameter): Name = "Value"; Value = "33nF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC1608X87N)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "03/12/2007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\CC0603_X5R_KEMET.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "03/12/2007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Example"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Part Number"; Value = "C0603C106M9PAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0603_10uF_6.3V_20%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "SMD Multilayer Chip Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0603_10UF_6.3V_20%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Preferred"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC0510X04N)
+Add component (AddParameter): Name = "Value"; Value = "470nF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(LLL03TR61E333KE01)
+Add component (AddParameter): Name = "Value"; Value = "33nF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC1608X87N)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "03/12/2007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\CC0603_X5R_KEMET.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "03/12/2007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Example"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Part Number"; Value = "C0603C106M9PAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0603_10uF_6.3V_20%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "SMD Multilayer Chip Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0603_10UF_6.3V_20%_X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Preferred"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC0510X04N)
+Add component (AddParameter): Name = "Value"; Value = "470nF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(LLL03TR61E333KE01)
+Add component (AddParameter): Name = "Value"; Value = "33nF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPC3225X270N)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM MR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "10/12/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\CC1210_X7U_MURATA.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "10/12/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "2.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Example"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Part Number"; Value = "GRM32EE70J107ME15L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC1210_100UF_6.3V_20%_X7U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "SMD Multilayer Chip Ceramic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC1210_100UF_6.3V_20%_X7U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "X7U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=FTG1(FIDUCIAL_TOP_C100-200)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard (No BOM)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "09/02/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Fiducial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Undefined"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04/04/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Round Fiducial Target, Top Layer, 1.0mm, Top Solder 2.0mm, Keepout =2.0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Round Fiducial Target, Top Layer, 1.0mm, Top Solder 2.0mm, Keepout =2.0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FIDUCIAL_TARGET_C100-200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "None"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(QFN50P300X300X100-17N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "NB7VQ14MMNHTBG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/nb7vq14mmnhtbg/on-semiconductor?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/NB7VQ14M-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NB7VQ14MMNHTBG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-NB7VQ14MMNHTBG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/NB7VQ14MMNHTBG?qs=3PKVEWFFm2%2FWq%2FFZ4xstfg%3D%3D"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SAMTEC_SMA-J-P-H-ST-EM1
+Add Component: Footprint Not Found SAMTEC_SMA-J-P-H-ST-EM1
+Add Component: Footprint Not Found SAMTEC_SMA-J-P-H-ST-EM1
+Add Component: Footprint Not Found SAMTEC_SMA-J-P-H-ST-EM1
+Add Component: Footprint Not Found SAMTEC_SMA-J-P-H-ST-EM1
+Add Component: Footprint Not Found SAMTEC_SMA-J-P-H-ST-EM1
+Add Component: Footprint Not Found SAMTEC_SMA-J-P-H-ST-EM1
+Add Component: Footprint Not Found SAMTEC_SMA-J-P-H-ST-EM1
+Add Component: Footprint Not Found SAMTEC_SMA-J-P-H-ST-EM1
+Add Component: Footprint Not Found SAMTEC_SMA-J-P-H-ST-EM1
+Added Component: Designator=TA1(lane_width_transition)
+Added Component: Designator=TA2(lane_width_transition)
+Added Component: Designator=TA3(lane_width_transition)
+Added Component: Designator=TA4(lane_width_transition)
+Added Component: Designator=TA5(lane_width_transition)
+Added Component: Designator=TA6(lane_width_transition)
+Added Component: Designator=TA7(lane_width_transition)
+Added Component: Designator=TA8(lane_width_transition)
+Added Component: Designator=TA9(lane_width_transition)
+Added Component: Designator=TA10(lane_width_transition)
+Added Component: Designator=W1(SAMTEC_HTSW-102-23-L-S)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "8.38mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "2/22/2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Header 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\SAMTEC_HTSW-102-23-L-S.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2/22/2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "HTSW-102-23-L-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "2 Contacts, Pitch 2.54mm, Single Row  Through Mount Straight Header (Post Lead 5.84mm, Tail Lead 2.92mm, Insulator 2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SAMTEC_HTSW-102-23-L-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Preferred"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status Comment"; Value = "High Temperature"; VariantName = "[No Variations]"
+Added Component: Designator=W2(SAMTEC_HTSW-102-23-L-S)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "8.38mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "2/22/2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Header 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\SAMTEC_HTSW-102-23-L-S.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2/22/2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "HTSW-102-23-L-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "2 Contacts, Pitch 2.54mm, Single Row  Through Mount Straight Header (Post Lead 5.84mm, Tail Lead 2.92mm, Insulator 2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SAMTEC_HTSW-102-23-L-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Preferred"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status Comment"; Value = "High Temperature"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=Vcc Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=Vcc Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=Vcc Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=Vcc Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=Vcc Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=Vcc Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=Vcc Pin=C8-2
+Added Pin To Net: NetName=IN_P Pin=IC1-1
+Added Pin To Net: NetName=NetC1_2 Pin=IC1-2
+Added Pin To Net: NetName=NetC1_2 Pin=IC1-3
+Added Pin To Net: NetName=IN_N Pin=IC1-4
+Added Pin To Net: NetName=NetIC1_5 Pin=IC1-5
+Added Pin To Net: NetName=OUT_3_N Pin=IC1-6
+Added Pin To Net: NetName=OUT_3_P Pin=IC1-7
+Added Pin To Net: NetName=Vcc Pin=IC1-8
+Added Pin To Net: NetName=OUT_2_N Pin=IC1-9
+Added Pin To Net: NetName=OUT_2_P Pin=IC1-10
+Added Pin To Net: NetName=OUT_1_N Pin=IC1-11
+Added Pin To Net: NetName=OUT_1_P Pin=IC1-12
+Added Pin To Net: NetName=Vcc Pin=IC1-13
+Added Pin To Net: NetName=OUT_0_N Pin=IC1-14
+Added Pin To Net: NetName=OUT_0_P Pin=IC1-15
+Added Pin To Net: NetName=GND Pin=IC1-16
+Added Pin To Net: NetName=GND Pin=IC1-17
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2_1
+Add Pin To Net: Unknown Pin: Pin J1-2_2
+Add Pin To Net: Unknown Pin: Pin J1-3_1
+Add Pin To Net: Unknown Pin: Pin J1-3_2
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2_1
+Add Pin To Net: Unknown Pin: Pin J2-2_2
+Add Pin To Net: Unknown Pin: Pin J2-3_1
+Add Pin To Net: Unknown Pin: Pin J2-3_2
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2_1
+Add Pin To Net: Unknown Pin: Pin J3-2_2
+Add Pin To Net: Unknown Pin: Pin J3-3_1
+Add Pin To Net: Unknown Pin: Pin J3-3_2
+Add Pin To Net: Unknown Pin: Pin J4-1
+Add Pin To Net: Unknown Pin: Pin J4-2_1
+Add Pin To Net: Unknown Pin: Pin J4-2_2
+Add Pin To Net: Unknown Pin: Pin J4-3_1
+Add Pin To Net: Unknown Pin: Pin J4-3_2
+Add Pin To Net: Unknown Pin: Pin J5-1
+Add Pin To Net: Unknown Pin: Pin J5-2_1
+Add Pin To Net: Unknown Pin: Pin J5-2_2
+Add Pin To Net: Unknown Pin: Pin J5-3_1
+Add Pin To Net: Unknown Pin: Pin J5-3_2
+Add Pin To Net: Unknown Pin: Pin J6-1
+Add Pin To Net: Unknown Pin: Pin J6-2_1
+Add Pin To Net: Unknown Pin: Pin J6-2_2
+Add Pin To Net: Unknown Pin: Pin J6-3_1
+Add Pin To Net: Unknown Pin: Pin J6-3_2
+Add Pin To Net: Unknown Pin: Pin J7-1
+Add Pin To Net: Unknown Pin: Pin J7-2_1
+Add Pin To Net: Unknown Pin: Pin J7-2_2
+Add Pin To Net: Unknown Pin: Pin J7-3_1
+Add Pin To Net: Unknown Pin: Pin J7-3_2
+Add Pin To Net: Unknown Pin: Pin J8-1
+Add Pin To Net: Unknown Pin: Pin J8-2_1
+Add Pin To Net: Unknown Pin: Pin J8-2_2
+Add Pin To Net: Unknown Pin: Pin J8-3_1
+Add Pin To Net: Unknown Pin: Pin J8-3_2
+Add Pin To Net: Unknown Pin: Pin J9-1
+Add Pin To Net: Unknown Pin: Pin J9-2_1
+Add Pin To Net: Unknown Pin: Pin J9-2_2
+Add Pin To Net: Unknown Pin: Pin J9-3_1
+Add Pin To Net: Unknown Pin: Pin J9-3_2
+Add Pin To Net: Unknown Pin: Pin J10-1
+Add Pin To Net: Unknown Pin: Pin J10-2_1
+Add Pin To Net: Unknown Pin: Pin J10-2_2
+Add Pin To Net: Unknown Pin: Pin J10-3_1
+Add Pin To Net: Unknown Pin: Pin J10-3_2
+Added Pin To Net: NetName=OUT_0_P Pin=TA1-D
+Added Pin To Net: NetName=NetJ1_1 Pin=TA1-S
+Added Pin To Net: NetName=OUT_0_N Pin=TA2-D
+Added Pin To Net: NetName=NetJ2_1 Pin=TA2-S
+Added Pin To Net: NetName=OUT_1_P Pin=TA3-D
+Added Pin To Net: NetName=NetJ3_1 Pin=TA3-S
+Added Pin To Net: NetName=IN_P Pin=TA4-D
+Added Pin To Net: NetName=NetJ4_1 Pin=TA4-S
+Added Pin To Net: NetName=OUT_1_N Pin=TA5-D
+Added Pin To Net: NetName=NetJ5_1 Pin=TA5-S
+Added Pin To Net: NetName=IN_N Pin=TA6-D
+Added Pin To Net: NetName=NetJ6_1 Pin=TA6-S
+Added Pin To Net: NetName=OUT_2_P Pin=TA7-D
+Added Pin To Net: NetName=NetJ7_1 Pin=TA7-S
+Added Pin To Net: NetName=OUT_2_N Pin=TA8-D
+Added Pin To Net: NetName=NetJ8_1 Pin=TA8-S
+Added Pin To Net: NetName=OUT_3_P Pin=TA9-D
+Added Pin To Net: NetName=NetJ9_1 Pin=TA9-S
+Added Pin To Net: NetName=OUT_3_N Pin=TA10-D
+Added Pin To Net: NetName=NetJ10_1 Pin=TA10-S
+Added Pin To Net: NetName=Vcc Pin=W1-1
+Added Pin To Net: NetName=NetIC1_5 Pin=W1-2
+Added Pin To Net: NetName=Vcc Pin=W2-1
+Added Pin To Net: NetName=GND Pin=W2-2
+Added Member To Class: ClassName=FanoutTest Member=Component C1 33nF
+Added Member To Class: ClassName=FanoutTest Member=Component C2 10uF
+Added Member To Class: ClassName=FanoutTest Member=Component C3 470nF
+Added Member To Class: ClassName=FanoutTest Member=Component C4 33nF
+Added Member To Class: ClassName=FanoutTest Member=Component C5 10uF
+Added Member To Class: ClassName=FanoutTest Member=Component C6 470nF
+Added Member To Class: ClassName=FanoutTest Member=Component C7 33nF
+Added Member To Class: ClassName=FanoutTest Member=Component C8 100uF
+Added Member To Class: ClassName=FanoutTest Member=Component FTG1 Use only in PCB
+Added Member To Class: ClassName=FanoutTest Member=Component IC1 NB7VQ14MMNHTBG
+Add Class Member: Failed to add class member : Component J1 SMA-J-P-H-ST-EM1
+Add Class Member: Failed to add class member : Component J2 SMA-J-P-H-ST-EM1
+Add Class Member: Failed to add class member : Component J3 SMA-J-P-H-ST-EM1
+Add Class Member: Failed to add class member : Component J4 SMA-J-P-H-ST-EM1
+Add Class Member: Failed to add class member : Component J5 SMA-J-P-H-ST-EM1
+Add Class Member: Failed to add class member : Component J6 SMA-J-P-H-ST-EM1
+Add Class Member: Failed to add class member : Component J7 SMA-J-P-H-ST-EM1
+Add Class Member: Failed to add class member : Component J8 SMA-J-P-H-ST-EM1
+Add Class Member: Failed to add class member : Component J9 SMA-J-P-H-ST-EM1
+Add Class Member: Failed to add class member : Component J10 SMA-J-P-H-ST-EM1
+Added Member To Class: ClassName=FanoutTest Member=Component TA1 Differential to Single Transition
+Added Member To Class: ClassName=FanoutTest Member=Component TA2 Differential to Single Transition
+Added Member To Class: ClassName=FanoutTest Member=Component TA3 Differential to Single Transition
+Added Member To Class: ClassName=FanoutTest Member=Component TA4 Differential to Single Transition
+Added Member To Class: ClassName=FanoutTest Member=Component TA5 Differential to Single Transition
+Added Member To Class: ClassName=FanoutTest Member=Component TA6 Differential to Single Transition
+Added Member To Class: ClassName=FanoutTest Member=Component TA7 Differential to Single Transition
+Added Member To Class: ClassName=FanoutTest Member=Component TA8 Differential to Single Transition
+Added Member To Class: ClassName=FanoutTest Member=Component TA9 Differential to Single Transition
+Added Member To Class: ClassName=FanoutTest Member=Component TA10 Differential to Single Transition
+Added Member To Class: ClassName=FanoutTest Member=Component W1 Header 2
+Added Member To Class: ClassName=FanoutTest Member=Component W2 Header 2

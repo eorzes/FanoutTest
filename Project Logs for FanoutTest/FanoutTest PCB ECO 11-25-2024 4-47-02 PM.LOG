@@ -1,0 +1,138 @@
+Removed Pin From Net: NetName=NetJ4_1 Pin=TA4-S
+Removed Pin From Net: NetName=NetJ5_1 Pin=TA5-S
+Removed Pin From Net: NetName=NetJ6_1 Pin=TA6-S
+Removed Pin From Net: NetName=NetJ7_1 Pin=TA7-S
+Added Component: Designator=J1(SAMTEC_SMA-J-P-H-ST-EM1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SMA-J-P-H-ST-EM1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(SAMTEC_SMA-J-P-H-ST-EM1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SMA-J-P-H-ST-EM1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(SAMTEC_SMA-J-P-H-ST-EM1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SMA-J-P-H-ST-EM1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J4(SAMTEC_SMA-J-P-H-ST-EM1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SMA-J-P-H-ST-EM1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J5(SAMTEC_SMA-J-P-H-ST-EM1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SMA-J-P-H-ST-EM1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J6(SAMTEC_SMA-J-P-H-ST-EM1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SMA-J-P-H-ST-EM1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7(SAMTEC_SMA-J-P-H-ST-EM1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SMA-J-P-H-ST-EM1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J8(SAMTEC_SMA-J-P-H-ST-EM1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SMA-J-P-H-ST-EM1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J9(SAMTEC_SMA-J-P-H-ST-EM1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SMA-J-P-H-ST-EM1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J10(SAMTEC_SMA-J-P-H-ST-EM1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SMA-J-P-H-ST-EM1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2_1
+Added Pin To Net: NetName=GND Pin=J1-2_2
+Added Pin To Net: NetName=GND Pin=J1-3_1
+Added Pin To Net: NetName=GND Pin=J1-3_2
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2_1
+Added Pin To Net: NetName=GND Pin=J2-2_2
+Added Pin To Net: NetName=GND Pin=J2-3_1
+Added Pin To Net: NetName=GND Pin=J2-3_2
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2_1
+Added Pin To Net: NetName=GND Pin=J3-2_2
+Added Pin To Net: NetName=GND Pin=J3-3_1
+Added Pin To Net: NetName=GND Pin=J3-3_2
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2_1
+Added Pin To Net: NetName=GND Pin=J4-2_2
+Added Pin To Net: NetName=GND Pin=J4-3_1
+Added Pin To Net: NetName=GND Pin=J4-3_2
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2_1
+Added Pin To Net: NetName=GND Pin=J5-2_2
+Added Pin To Net: NetName=GND Pin=J5-3_1
+Added Pin To Net: NetName=GND Pin=J5-3_2
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-2_1
+Added Pin To Net: NetName=GND Pin=J6-2_2
+Added Pin To Net: NetName=GND Pin=J6-3_1
+Added Pin To Net: NetName=GND Pin=J6-3_2
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J7-2_1
+Added Pin To Net: NetName=GND Pin=J7-2_2
+Added Pin To Net: NetName=GND Pin=J7-3_1
+Added Pin To Net: NetName=GND Pin=J7-3_2
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J8-2_1
+Added Pin To Net: NetName=GND Pin=J8-2_2
+Added Pin To Net: NetName=GND Pin=J8-3_1
+Added Pin To Net: NetName=GND Pin=J8-3_2
+Added Pin To Net: NetName=NetJ9_1 Pin=J9-1
+Added Pin To Net: NetName=GND Pin=J9-2_1
+Added Pin To Net: NetName=GND Pin=J9-2_2
+Added Pin To Net: NetName=GND Pin=J9-3_1
+Added Pin To Net: NetName=GND Pin=J9-3_2
+Added Pin To Net: NetName=NetJ10_1 Pin=J10-1
+Added Pin To Net: NetName=GND Pin=J10-2_1
+Added Pin To Net: NetName=GND Pin=J10-2_2
+Added Pin To Net: NetName=GND Pin=J10-3_1
+Added Pin To Net: NetName=GND Pin=J10-3_2
+Added Pin To Net: NetName=NetJ5_1 Pin=TA4-S
+Added Pin To Net: NetName=NetJ4_1 Pin=TA5-S
+Added Pin To Net: NetName=NetJ7_1 Pin=TA6-S
+Added Pin To Net: NetName=NetJ6_1 Pin=TA7-S
+Added Member To Class: ClassName=FanoutTest Member=Component J1 SMA-J-P-H-ST-EM1
+Added Member To Class: ClassName=FanoutTest Member=Component J2 SMA-J-P-H-ST-EM1
+Added Member To Class: ClassName=FanoutTest Member=Component J3 SMA-J-P-H-ST-EM1
+Added Member To Class: ClassName=FanoutTest Member=Component J4 SMA-J-P-H-ST-EM1
+Added Member To Class: ClassName=FanoutTest Member=Component J5 SMA-J-P-H-ST-EM1
+Added Member To Class: ClassName=FanoutTest Member=Component J6 SMA-J-P-H-ST-EM1
+Added Member To Class: ClassName=FanoutTest Member=Component J7 SMA-J-P-H-ST-EM1
+Added Member To Class: ClassName=FanoutTest Member=Component J8 SMA-J-P-H-ST-EM1
+Added Member To Class: ClassName=FanoutTest Member=Component J9 SMA-J-P-H-ST-EM1
+Added Member To Class: ClassName=FanoutTest Member=Component J10 SMA-J-P-H-ST-EM1

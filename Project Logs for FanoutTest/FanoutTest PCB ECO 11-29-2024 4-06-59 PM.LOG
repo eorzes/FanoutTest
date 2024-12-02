@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=J4-2_1
+Removed Pin From Net: NetName=GND Pin=J4-2_2
+Removed Pin From Net: NetName=GND Pin=J4-3_1
+Removed Pin From Net: NetName=GND Pin=J4-3_2
+Removed Member From Class: ClassName=FanoutTest Member=J4
+Removed Member From Class: ClassName=50ohm Member=NetJ4_1
+Added Component: Designator=*(CONSMA022-G)
+Add Pin To Net: Unknown Pin: Pin *-2_1
+Add Pin To Net: Unknown Pin: Pin *-2_2
+Add Pin To Net: Unknown Pin: Pin *-3_1
+Add Pin To Net: Unknown Pin: Pin *-3_2
+Added Pin To Net: NetName=Net*_1 Pin=TA5-S
+Added Net: Name=Net*_1
+Added Member To Class: ClassName=FanoutTest Member=Component * Component_1
+Added Member To Class: ClassName=50ohm Member=Wire Net*_1

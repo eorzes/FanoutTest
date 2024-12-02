@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=50ohm Member=Net*_S
+Added Component: Designator=*(CONSMA022-G)
+Add Pin To Net: Unknown Pin: Pin *-0
+Added Pin To Net: NetName=Net*_1 Pin=TA5-S
+Added Net: Name=Net*_1
+Added Member To Class: ClassName=FanoutTest Member=Component * Component_1
+Added Member To Class: ClassName=50ohm Member=Wire Net*_1

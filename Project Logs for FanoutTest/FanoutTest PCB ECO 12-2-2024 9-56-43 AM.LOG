@@ -1,0 +1,10 @@
+Added Component: Designator=J?(CONSMA022G)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=CONSMA022-G&DocType=Data%20Sheet&DocLang=English&PartCntxt=CONSMA022-G&DocFormat=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "6.67mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CONSMA022-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "712-CONSMA022-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Linx-Technologies/CONSMA022-G?qs=OlC7AqGiEDmpwNGHcfQruQ%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=FanoutTest Member=Component J? CONSMA022-G

@@ -1,0 +1,7 @@
+Added Component: Designator=*(CONSMA022-G)
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-2_1
+Add Pin To Net: Unknown Pin: Pin *-2_2
+Added Pin To Net: NetName=GND Pin=*-3_1
+Add Pin To Net: Unknown Pin: Pin *-3_2
+Added Member To Class: ClassName=FanoutTest Member=Component * Component_1
