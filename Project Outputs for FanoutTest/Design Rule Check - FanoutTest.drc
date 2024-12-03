@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\eorzes\cernbox\Altium\FanoutTest\FanoutTest.PcbDoc
-Date     : 12/2/2024
-Time     : 5:14:27 PM
+Date     : 12/3/2024
+Time     : 12:56:21 PM
 
 Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
 Rule Violations :0
@@ -42,7 +42,7 @@ Rule Violations :0
 Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=8.226mil) (Max=8.226mil) (Prefered=8.226mil)  and Width Constraints (Min=4mil) (Max=5.181mil) (Prefered=4mil) (InDifferentialPairClass('All Differential Pairs'))
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=25mil) (Air Gap=7mil) (Entries=4) (InComponentClass('PWR_Jumper'))
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=25mil) (Air Gap=7mil) (Entries=4) (InComponentClass('PWR_Jumper') or HasFootprint('SAMTEC_HTSW-102-23-L-S'))
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (InPadClass('Frame_Holes'))
