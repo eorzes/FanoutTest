@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\eorzes\cernbox\Altium\FanoutTest\FanoutTest.PcbDoc
-Date     : 12/5/2024
-Time     : 3:35:58 PM
+PCB File : C:\Users\Administrator\Downloads\FanoutTest-main_MODDED\FanoutTest-main\FanoutTest.PcbDoc
+Date     : 06/12/2024
+Time     : 16:52:34
 
 Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
 Rule Violations :0
@@ -9,10 +9,10 @@ Rule Violations :0
 Processing Rule : Clearance Constraint (Gap=4mil) (HasFootprint('CONSMA022-G')),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=4mil) (HasFootprint('CONSMA022-G') and InNetClass('50ohm')),(All)
+Processing Rule : Clearance Constraint (Gap=4mil) (InAnyDifferentialPair or InNetClass('50ohm') or HasFootprint('lane_width_transition')),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=4mil) (InAnyDifferentialPair or InNetClass('50ohm') or HasFootprint('lane_width_transition')),(All)
+Processing Rule : Clearance Constraint (Gap=4mil) (HasFootprint('CONSMA022-G') and InNetClass('50ohm')),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -24,13 +24,13 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=1mil) (Max=10mil) (Preferred=10mil) (HasFootprint('lane_width_transition'))
+Processing Rule : Width Constraint (Min=5mil) (Max=100mil) (Preferred=6mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1mil) (Max=10mil) (Preferred=10mil) (HasFootprint('lane_width_transition') and (IsArc or IsTrack))
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=5.181mil) (Max=5.181mil) (Preferred=5.181mil) (InNetClass('50ohm'))
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=5mil) (Max=100mil) (Preferred=6mil) (All)
 Rule Violations :0
 
 Processing Rule : Routing Layers(All)
@@ -39,13 +39,16 @@ Rule Violations :0
 Processing Rule : Routing Via (MinHoleWidth=9.842mil) (MaxHoleWidth=11.811mil) (PreferredHoleWidth=9.842mil) (MinWidth=19.685mil) (MaxWidth=23.622mil) (PreferedWidth=19.685mil) (All)
 Rule Violations :0
 
-Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=8.226mil) (Max=8.226mil) (Prefered=8.226mil)  and Width Constraints (Min=4mil) (Max=5.181mil) (Prefered=4mil) (InDifferentialPairClass('All Differential Pairs'))
-Rule Violations :0
-
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=25mil) (Air Gap=7mil) (Entries=4) (InComponentClass('PWR_Jumper') or HasFootprint('TE_282837-2'))
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=8.226mil) (Max=8.226mil) (Prefered=8.226mil)  and Width Constraints (Min=4mil) (Max=4mil) (Prefered=4mil) (InDifferentialPairClass('All Differential Pairs'))
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (InPadClass('Frame_Holes'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (HasFootprint('CONSMA022-G'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=25mil) (Air Gap=7mil) (Entries=4) (InComponentClass('PWR_Jumper') or HasFootprint('TE_282837-2'))
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=12mil) (Air Gap=7mil) (Entries=4) (All)
@@ -69,7 +72,7 @@ Rule Violations :0
 Processing Rule : Minimum Solder Mask Sliver (Gap=2mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=3.5mil) (IsPad),(All)
+Processing Rule : Silk To Solder Mask (Clearance=3.5mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
@@ -78,13 +81,10 @@ Rule Violations :0
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
 
-Processing Rule : Board Clearance Constraint (Gap=0mil) (InComponentClass('PWR_Connector'))
-Rule Violations :0
-
 Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
 Rule Violations :0
 
-Processing Rule : Board Clearance Constraint (Gap=0mil) (HasFootprint('CONSMA022-G'))
+Processing Rule : Board Clearance Constraint (Gap=0mil) (HasFootprint('CONSMA022-G') And (OnLayer('Top Overlay') Or OnLayer('Bottom Overlay')))
 Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=1.5mil) (InNetClass('Output_Lanes'))
@@ -93,10 +93,7 @@ Rule Violations :0
 Processing Rule : Matched Lengths(Tolerance=1mil) (InDifferentialPairClass('All Differential Pairs'))
 Rule Violations :0
 
-Processing Rule : Component Clearance Constraint ( Horizontal Gap = -20mil, Vertical Gap = 0mil ) (All),(All) 
-Rule Violations :0
-
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mil, Vertical Gap = 0mil ) (All),(All) 
 Rule Violations :0
 
 

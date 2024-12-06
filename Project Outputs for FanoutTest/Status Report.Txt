@@ -1,32 +1,12 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [FanoutTest.PrjPcb]
-   Generated File[FanoutTest.GTO]
-   Generated File[FanoutTest.GTP]
-   Generated File[FanoutTest.GTS]
-   Generated File[FanoutTest.GTL]
-   Generated File[FanoutTest.GP1]
-   Generated File[FanoutTest.GP2]
-   Generated File[FanoutTest.GBL]
-   Generated File[FanoutTest.GBS]
-   Generated File[FanoutTest.GBP]
-   Generated File[FanoutTest.GBO]
-   Generated File[FanoutTest.GM1]
-   Generated File[FanoutTest.GM8]
-   Generated File[FanoutTest.GM13]
-   Generated File[FanoutTest.GM14]
-   Generated File[FanoutTest.GM15]
-   Generated File[FanoutTest.GKO]
-   Generated File[FanoutTest.GPT]
-   Generated File[FanoutTest.GPB]
-   Generated File[FanoutTest.GD1]
-   Generated File[FanoutTest.GG1]
-   Generated File[FanoutTest.GM]
-   Generated File[FanoutTest.EXTREP]
-   Generated File[FanoutTest.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [FanoutTest.PrjPcb]
+   Generated File[FanoutTest.TXT]
+   Generated File[FanoutTest.LDP]
+   Generated File[FanoutTest.DRR]
 
 
-Files Generated   : 23
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 3:38:43 PM On 12/5/2024
+Finished Output Generation At 16:53:44 On 06/12/2024

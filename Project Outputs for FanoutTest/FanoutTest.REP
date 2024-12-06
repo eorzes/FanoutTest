@@ -2,81 +2,33 @@
 FileName = FanoutTest.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 15
-      File : FanoutTest.GM15
+Generating : Bottom Layer
+      File : FanoutTest.GBL
 
-    Adding Layer      : Mechanical 15
+    Adding Layer      : Bottom Layer
 
-
-Used DCodes :
-    D11
-    D58
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 14
-      File : FanoutTest.GM14
-
-    Adding Layer      : Mechanical 14
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : FanoutTest.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D11
     D13
-    D14
-    D59
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 8
-      File : FanoutTest.GM8
-
-    Adding Layer      : Mechanical 8
-
-
-Used DCodes :
-    D11
-    D58
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : FanoutTest.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
+    D29
+    D30
+    D31
+    D32
     D36
+    D41
+    D42
+    D51
+    D52
+    D53
+    D54
+    D55
 *************************************************************
 
 *************************************************************
-Generating : Keep-Out Layer
-      File : FanoutTest.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : FanoutTest.GBP
-
-    Adding Layer      : Bottom Paste
+Generating : Bottom Pad Master
+      File : FanoutTest.GPB
 
     Adding Layer      : Bottom Layer
 
@@ -84,16 +36,20 @@ Generating : Bottom Paste
 
 
 Used DCodes :
+    D29
+    D30
+    D31
+    D32
+    D36
+    D51
+    D52
     D53
-    D54
     D55
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : FanoutTest.GTP
-
-    Adding Layer      : Top Paste
+Generating : Top Pad Master
+      File : FanoutTest.GPT
 
     Adding Layer      : Top Layer
 
@@ -101,6 +57,7 @@ Generating : Top Paste
 
 
 Used DCodes :
+    D17
     D18
     D19
     D20
@@ -109,73 +66,16 @@ Used DCodes :
     D23
     D24
     D25
-    D26
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : FanoutTest.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D27
     D28
     D29
     D30
     D31
     D32
-    D53
-    D54
-    D55
-    D57
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : FanoutTest.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : FanoutTest.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D13
-    D16
+    D36
+    D37
+    D38
+    D39
+    D40
 *************************************************************
 
 *************************************************************
@@ -193,84 +93,18 @@ Used DCodes :
     D14
     D15
     D16
-    D17
 *************************************************************
 
 *************************************************************
-Generating : Top Pad Master
-      File : FanoutTest.GPT
+Generating : Bottom Overlay
+      File : FanoutTest.GBO
 
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D29
-    D30
-    D31
-    D32
-    D33
-    D37
-    D38
-    D39
-    D40
-    D41
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : FanoutTest.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D29
-    D30
-    D31
-    D32
-    D39
-    D53
-    D54
-    D55
-    D57
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : FanoutTest.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D29
-    D30
-    D31
-    D32
-    D39
-    D42
-    D43
-    D53
-    D54
-    D55
-    D56
-    D57
+    D12
+    D15
 *************************************************************
 
 *************************************************************
@@ -283,15 +117,131 @@ Generating : POWER
 
 
 Used DCodes :
-    D27
+    D15
+    D26
+    D43
     D44
     D45
     D46
     D47
+    D48
     D49
     D50
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : FanoutTest.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D27
+    D29
+    D30
+    D31
+    D32
     D51
     D52
+    D53
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 14
+      File : FanoutTest.GM14
+
+    Adding Layer      : Mechanical 14
+
+
+Used DCodes :
+    D11
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : FanoutTest.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : FanoutTest.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D12
+    D13
+    D56
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : FanoutTest.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : FanoutTest.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D56
+    D57
 *************************************************************
 
 *************************************************************
@@ -304,12 +254,11 @@ Generating : GND
 
 
 Used DCodes :
+    D43
     D44
     D45
     D46
     D47
-    D48
-    D49
 *************************************************************
 
 *************************************************************
@@ -322,7 +271,8 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D14
+    D13
+    D17
     D18
     D19
     D20
@@ -331,7 +281,7 @@ Used DCodes :
     D23
     D24
     D25
-    D26
+    D28
     D29
     D30
     D31
@@ -346,7 +296,57 @@ Used DCodes :
     D40
     D41
     D42
-    D43
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : FanoutTest.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D51
+    D52
+    D53
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : FanoutTest.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : FanoutTest.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 8
+      File : FanoutTest.GM8
+
+    Adding Layer      : Mechanical 8
+
+
+Used DCodes :
+    D56
+    D57
 *************************************************************
 
 *************************************************************
@@ -359,8 +359,8 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D14
-    D60
+    D13
+    D59
 *************************************************************
 
 *************************************************************
@@ -373,7 +373,7 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D14
+    D13
 *************************************************************
 
 *************************************************************
@@ -382,6 +382,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D61
+    D60
 *************************************************************
 
