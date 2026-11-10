@@ -1,12 +1,10 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [FanoutTest.PrjPcb]
-   Generated File[FanoutTest.TXT]
-   Generated File[FanoutTest.LDP]
-   Generated File[FanoutTest.DRR]
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [FanoutTest.PrjPcb]
+   Generated File[Pick Place for FanoutTest.csv]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 16:53:44 On 06/12/2024
+Finished Output Generation At 5:00:47 PM On 1/13/2025

@@ -1,0 +1,36 @@
+Altium Designer Pick and Place Locations
+C:\Users\eorzes\cernbox\Altium\FanoutTest\Project Outputs for FanoutTest\Pick Place for FanoutTest.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       13/01/25
+Time:       17:00
+Revision:   bdaf91a4e3a39096d71800a262a8e0c04306b2d8
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Footprint","Layer","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"C1","33nF","LLL03TR61E333KE01","BottomLayer","890.489","1140.812","180","LLL03TR61E333KE01"
+"C2","10uF","CAPC1608X87N","TopLayer","1040.971","1295.018","180","GRM188D71A106KA73"
+"C3","470nF","CAPC0510X04N","BottomLayer","932.957","1288.063","0","LLL153C70G474ME17"
+"C4","33nF","LLL03TR61E333KE01","TopLayer","965.050","1252.950","90","LLL03TR61E333KE01"
+"C5","10uF","CAPC1608X87N","TopLayer","680.464","1295.018","0","GRM188D71A106KA73"
+"C6","470nF","CAPC0510X04N","BottomLayer","790.605","1288.063","180","LLL153C70G474ME17"
+"C7","33nF","LLL03TR61E333KE01","TopLayer","756.130","1252.858","90","LLL03TR61E333KE01"
+"C8","100uF","CAPC3225X270N","BottomLayer","860.717","2121.604","0","GRM32EC70J107ME15"
+"FTG1","Use only in PCB","FIDUCIAL_TOP_C100-200","TopLayer","119.105","119.105","90","Fiducial Target"
+"FTG2","Use only in PCB","FIDUCIAL_TOP_C100-200","BottomLayer","118.461","118.461","90","Fiducial Target"
+"IC1","NB7VQ14MMNHTBG","QFN50P300X300X100-17N","TopLayer","860.717","1217.425","90","Integrated Circuit"
+"J0","SMA","CONSMA022-G","TopLayer","87.953","400.000","270",""
+"J1","SMA","CONSMA022-G","TopLayer","87.953","937.795","270",""
+"J2","SMA","CONSMA022-G","TopLayer","87.953","1475.591","270",""
+"J3","SMA","CONSMA022-G","TopLayer","87.953","2013.387","270",""
+"J4","SMA","CONSMA022-G","TopLayer","1633.482","2013.387","90",""
+"J5","SMA","CONSMA022-G","TopLayer","1633.482","1475.591","90",""
+"J6","SMA","CONSMA022-G","TopLayer","1633.482","937.795","90",""
+"J7","SMA","CONSMA022-G","TopLayer","1633.482","400.000","90",""
+"J8","SMA","CONSMA022-G","TopLayer","591.819","87.953","0",""
+"J9","SMA","CONSMA022-G","TopLayer","1129.615","87.953","0",""
+"P1","282837-2","TE_282837-2","TopLayer","860.717","2238.223","180",""
+"W1","Header 2","SAMTEC_HTSW-102-23-L-S","TopLayer","860.174","1961.884","0","2 Mini Wire-Wrap Contact Strip Header"
